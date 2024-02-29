@@ -9,5 +9,5 @@ A custom designed, all-in-one digital Clock and Thermometer, based on the glorio
 - three pushbuttons in order to: change visualization (hour/temp), increment hour/minutes.
 
 ## final PCB image:
-![img]()
+![img](image.jpg)
 
