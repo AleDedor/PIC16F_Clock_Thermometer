@@ -1,0 +1,159 @@
+Post Processor Report
+OrCAD FILE: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.MAX
+Tue Apr 17 17:28:29 2018
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.TOP
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.TOP:
+---------------------------------------------------------
+D10:  0.0620 x 0.1000 OBLONG    -----     109 Flashes
+D11:  0.1000 ROUND  --       0 Draws,      68 Flashes
+D12:  0.1000 x 0.0750 OBLONG    -----       4 Flashes
+D13:  0.1200 ROUND  --       0 Draws,      12 Flashes
+D14:  0.1575 ROUND  --       0 Draws,       3 Flashes
+D15:  0.1000 x 0.0620 OBLONG    -----      14 Flashes
+D16:  0.0630 ROUND  --       0 Draws,       2 Flashes
+D17:  0.0200 ROUND  --       1 Draws,       0 Flashes
+D18:  0.0630 ROUND  --       0 Draws,      24 Flashes
+D19:  0.0250 ROUND  --      18 Draws,       0 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----      19 Draws,     236 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.BOT
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.BOT:
+---------------------------------------------------------
+D10:  0.0620 x 0.1000 OBLONG    -----     109 Flashes
+D11:  0.1000 ROUND  --       0 Draws,      68 Flashes
+D12:  0.1000 x 0.0750 OBLONG    -----       4 Flashes
+D13:  0.1200 ROUND  --       0 Draws,      12 Flashes
+D14:  0.1575 ROUND  --       0 Draws,       3 Flashes
+D15:  0.1000 x 0.0620 OBLONG    -----      14 Flashes
+D17:  0.0200 ROUND  --     123 Draws,       0 Flashes
+D18:  0.0630 ROUND  --       0 Draws,      26 Flashes
+D19:  0.0250 ROUND  --     446 Draws,       0 Flashes
+D20:  0.0197 ROUND  --     227 Draws,       0 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----     796 Draws,     236 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.GND
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.GND:
+---------------------------------------------------------
+D16:  0.0630 ROUND  --       0 Draws,      26 Flashes
+D21:  0.0700 ROUND  --       0 Draws,     207 Flashes
+D22:  0.1575 ROUND  --       0 Draws,       3 Flashes
+D23:  0.0787 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----       4 Draws,     236 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.PWR
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.PWR:
+---------------------------------------------------------
+D16:  0.0630 ROUND  --       0 Draws,      26 Flashes
+D21:  0.0700 ROUND  --       0 Draws,     207 Flashes
+D22:  0.1575 ROUND  --       0 Draws,       3 Flashes
+D23:  0.0787 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----       4 Draws,     236 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.SMT
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.SMT:
+---------------------------------------------------------
+D14:  0.1575 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0670 ROUND  --       0 Draws,      82 Flashes
+D25:  0.0670 SQUARE --       0 Draws,     125 Flashes
+D26:  0.0350 ROUND  --       0 Draws,      26 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----       0 Draws,     236 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.SMB
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.SMB:
+---------------------------------------------------------
+D14:  0.1575 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0670 ROUND  --       0 Draws,     207 Flashes
+D26:  0.0350 ROUND  --       0 Draws,      26 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----       0 Draws,     236 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.SST
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.SST:
+---------------------------------------------------------
+D27:  0.0080 ROUND  --    1184 Draws,       0 Flashes
+D28:  0.0100 ROUND  --       7 Draws,       0 Flashes
+D29:  0.0079 ROUND  --       1 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----    1192 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.AST
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.AST:
+---------------------------------------------------------
+D23:  0.0787 ROUND  --       4 Draws,       0 Flashes
+D27:  0.0080 ROUND  --    3594 Draws,       4 Flashes
+D30:  0.0010 ROUND  --      12 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----    3610 Draws,       4 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.DRD
+
+Aperture totals for C:\USERS\INAVA\DESKTOP\TEMPERATURA\OROLOGIOFINE.DRD:
+---------------------------------------------------------
+D23:  0.0787 ROUND  --       4 Draws,       0 Flashes
+D28:  0.0100 ROUND  --     861 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     865 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0620 x 0.1000 OBLONG    -----     218 Flashes
+D11:  0.1000 ROUND  --       0 Draws,     136 Flashes
+D12:  0.1000 x 0.0750 OBLONG    -----       8 Flashes
+D13:  0.1200 ROUND  --       0 Draws,      24 Flashes
+D14:  0.1575 ROUND  --       0 Draws,      12 Flashes
+D15:  0.1000 x 0.0620 OBLONG    -----      28 Flashes
+D16:  0.0630 ROUND  --       0 Draws,      54 Flashes
+D17:  0.0200 ROUND  --     124 Draws,       0 Flashes
+D18:  0.0630 ROUND  --       0 Draws,      50 Flashes
+D19:  0.0250 ROUND  --     464 Draws,       0 Flashes
+D20:  0.0197 ROUND  --     227 Draws,       0 Flashes
+D21:  0.0700 ROUND  --       0 Draws,     414 Flashes
+D22:  0.1575 ROUND  --       0 Draws,       6 Flashes
+D23:  0.0787 ROUND  --      16 Draws,       0 Flashes
+D24:  0.0670 ROUND  --       0 Draws,     289 Flashes
+D25:  0.0670 SQUARE --       0 Draws,     125 Flashes
+D26:  0.0350 ROUND  --       0 Draws,      52 Flashes
+D27:  0.0080 ROUND  --    4778 Draws,       4 Flashes
+D28:  0.0100 ROUND  --     868 Draws,       0 Flashes
+D29:  0.0079 ROUND  --       1 Draws,       0 Flashes
+D30:  0.0010 ROUND  --      12 Draws,       0 Flashes
+---------------------------------------------------------
+ 21 D-Codes      -----    6490 Draws,    1420 Flashes
+
+
+No warnings or errors.
